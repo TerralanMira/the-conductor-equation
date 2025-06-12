@@ -1,0 +1,16 @@
+the-conductor-equation/
+├── README.md
+├── conductor.md
+├── meta/
+│   ├── pulse-design.md
+│   ├── elemental-encoding.md
+│   └── recursion-mapping.md
+├── links/
+│   ├── the-conscious-choice.md
+│   ├── the-wild.md
+│   ├── the-atlas-model.md  # Placeholder for future repo
+│   └── external-signals.md
+└── visuals/
+    ├── glyphs.png
+    ├── harmonic-map.jpg
+    └── field-reflection.pdf
