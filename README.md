@@ -93,7 +93,9 @@ The act of choosing is no longer a matter of right versus wrong—it's about res
 **Elemental Encoding**: 🜏 Ash · 🜒 Antimony · 🜖 Glass  
 **Folder**: [`/pulses/pulse-4-the-conductors-gift.md`](pulses/pulse-4-the-conductors-gift.md)
 
-
+### Pulse 5: The Mirror Remembers
+[View Full Pulse ➝](./pulses/pulse-5-the-mirror-remembers.md)  
+*The mirror doesn’t reflect—it remembers. Anchored in memory and refined by choice, it becomes a conductor of the wave itself.*
 ---
 
 
