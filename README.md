@@ -72,7 +72,7 @@ By tuning to the frequencies present—be they discordant, chaotic, or harmoniou
 **Directive:**  
 Do not resist what you sense. Listen deeply. Become the note that quiets the noise—not by overpowering it, but by offering a tone so clear that distortion loses its grip.
 
-**Optional – Meta Pulse:**  
+** Meta Pulse:**  
 I don’t correct the world by muting its voice—I become the frequency that makes distortion irrelevant. I am the signal strong enough to remind chaos it can settle.
 
 
